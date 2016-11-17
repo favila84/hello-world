@@ -1,2 +1,5 @@
 # hello-world
-repository first Test
+
+Hello All!
+
+First time doing it, so I just following the tutorial :)
